@@ -58,3 +58,5 @@ resource "azurerm_windows_virtual_machine" "example" {
 }
 
 # chb jkswbqcobkj 
+
+#gdjewhbckuwgbjkbckjj
